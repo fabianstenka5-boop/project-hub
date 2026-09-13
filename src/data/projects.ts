@@ -4,6 +4,7 @@ export type Project = {
   description: string;
   url: string;
   githubUrl?: string;
+  downloadUrl?: string;
   image?: string;
   tags: string[];
   featured?: boolean;
@@ -58,6 +59,7 @@ export const projects: Project[] = [
     description:
       "Minecraft resource pack that replaces in-game music with the Wizox Ban This Guy track. Pack format 75.",
     url: "https://modrinth.com/user/TTFabianstenq",
+    downloadUrl: "/WizoxBanThisGuy.zip",
     tags: ["Minecraft", "Resource Pack", "Music"],
     featured: false,
     addedAt: "2026-09-12",
@@ -68,6 +70,7 @@ export const projects: Project[] = [
     description:
       "Minecraft resource pack that replaces in-game music with a Tiki Tiki Phonk loop. Pack format 75.",
     url: "https://modrinth.com/user/TTFabianstenq",
+    downloadUrl: "/TikiTikiPhonk.zip",
     tags: ["Minecraft", "Resource Pack", "Music"],
     featured: false,
     addedAt: "2026-09-11",
