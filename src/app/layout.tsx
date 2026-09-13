@@ -13,18 +13,18 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Stenka · Project Hub",
+  title: "Project Hub",
   description:
     "Everything I build, in one place. A modern directory of projects, experiments, and products.",
   openGraph: {
-    title: "Stenka · Project Hub",
+    title: "Project Hub",
     description:
       "A living directory of projects, experiments, and products. Explore and visit every project.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Stenka · Project Hub",
+    title: "Project Hub",
     description:
       "Everything I build, in one place. Discover and visit all projects.",
   },

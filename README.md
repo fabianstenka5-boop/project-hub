@@ -51,6 +51,7 @@ Save. The project appears automatically on the homepage (search + filters includ
 - Accessible buttons and focus states
 - SEO metadata
 
-## Deploy
+## Current projects
 
-Connected to Vercel for automatic deploys from `main`.
+- [BotDeck](https://fabianbotdeck.vercel.app/) – Discord bot dashboard
+- [Six Farts On Teddy](https://sixfartsonteddy.vercel.app/) – Night-shift survival game
