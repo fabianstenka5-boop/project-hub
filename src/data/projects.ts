@@ -32,6 +32,46 @@ export const projects: Project[] = [
     featured: true,
     addedAt: "2026-08-20",
   },
+  {
+    id: "tung-tung-sahere-totem",
+    name: "Tung Tung Sahere Totem",
+    description:
+      "Replaces the Totem of Undying with Tung Tung Sahere and plays his custom sound whenever it saves you from death. Minecraft Java 1.21.11 resource pack.",
+    url: "https://modrinth.com/resourcepack/tung-tung-sahere-totem",
+    tags: ["Minecraft", "Resource Pack", "Meme"],
+    featured: true,
+    addedAt: "2026-08-13",
+  },
+  {
+    id: "funky-ehh-swords",
+    name: "Funky Ehh Swords",
+    description:
+      "Makes all the swords Funky Ehh. Cursed 256x Minecraft resource pack.",
+    url: "https://modrinth.com/resourcepack/funky-ehh-swords",
+    tags: ["Minecraft", "Resource Pack", "Cursed"],
+    featured: false,
+    addedAt: "2026-08-10",
+  },
+  {
+    id: "wizox-ban-this-guy",
+    name: "Wizox Ban This Guy",
+    description:
+      "Minecraft resource pack that replaces in-game music with the Wizox Ban This Guy track. Pack format 75.",
+    url: "https://modrinth.com/user/TTFabianstenq",
+    tags: ["Minecraft", "Resource Pack", "Music"],
+    featured: false,
+    addedAt: "2026-09-12",
+  },
+  {
+    id: "tiki-tiki-phonk",
+    name: "Tiki Tiki Phonk",
+    description:
+      "Minecraft resource pack that replaces in-game music with a Tiki Tiki Phonk loop. Pack format 75.",
+    url: "https://modrinth.com/user/TTFabianstenq",
+    tags: ["Minecraft", "Resource Pack", "Music"],
+    featured: false,
+    addedAt: "2026-09-11",
+  },
 ];
 
 export const allTags = Array.from(
